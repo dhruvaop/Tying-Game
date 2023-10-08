@@ -150,6 +150,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## [](#contact)Contact
 
-Dhruva Bhattacharya - [egide2020](https://twitter.com/DhruvaBhattach2) - [dhruvabhattacharya130102@gmail.com](mailto:dhruvabhattacharya130102@gmail.com)
+Dhruva Bhattacharya - [dhruva](https://twitter.com/DhruvaBhattach2) - [dhruvabhattacharya130102@gmail.com](mailto:dhruvabhattacharya130102@gmail.com)
 
 Project Link: https://github.com/dhruvaop/WordRace
